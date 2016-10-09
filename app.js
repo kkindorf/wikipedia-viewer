@@ -1,6 +1,7 @@
 var searchTerm="";
 var form  = $("#form");
 var wikiContent ="";
+var btn = $(".btn");
 var wikiContainer =$(".wiki-container");
 $(function(){
   $("form").submit(function(e){
