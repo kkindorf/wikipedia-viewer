@@ -10,3 +10,5 @@ But once I figured that out, I was able to use the JSON returned from the reques
 Some potential TODO's for this project if I have the time: re-write the getJSON request so that the query string to Wikipedia's API is easier to maintain.
 
 Update the CSS and HTML so that the text is a little easier to read against the blue background and update H2 links so that they are always underlined.
+
+![Wikipedia Viewer](wikipedia.png)
